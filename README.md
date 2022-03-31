@@ -1,5 +1,7 @@
 # Never ending Tic Tac Toe
 
+![Screenshot](https://github.com/jhderojasUVa/never-ending-tictactoe/blob/main/git_images/screenshot.png)
+
 Tired of having a tic tac toe that ends in a few movements? Well, on this one the fun will continue after everything is filled because your oponent can change your row to their so doing a tic tac toe is easier than ever.
 
 ## React
